@@ -56,8 +56,8 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
    - [Security guards and collision detectors (4)](#security-guards-and-collision-detectors)
    - [Dotfiles and ready-made configuration (6)](#dotfiles-and-ready-made-configuration)
    - [Plugin collections and developer frameworks (6)](#plugin-collections-and-developer-frameworks)
-6. [Apps, companion integrations, and installation (185)](#6-apps-companion-integrations-and-installation)
-   - [Native desktop and mobile apps (14)](#native-desktop-and-mobile-apps)
+6. [Apps, companion integrations, and installation (186)](#6-apps-companion-integrations-and-installation)
+   - [Native desktop and mobile apps (15)](#native-desktop-and-mobile-apps)
    - [Web dashboards and remote viewers (22)](#web-dashboards-and-remote-viewers)
    - [Hardware and ambient displays (22)](#hardware-and-ambient-displays)
    - [Plugins and supporting utilities (103)](#plugins-and-supporting-utilities)
@@ -2291,11 +2291,11 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 
 ## 6. Apps, companion integrations, and installation
 
-*185 projects. Native applications, web dashboards, hardware companions, supporting utilities, and setup packages.*
+*186 projects. Native applications, web dashboards, hardware companions, supporting utilities, and setup packages.*
 
 ### Native desktop and mobile apps
 
-*14 projects. Installed applications and launchers that provide a native interface to Herdr on desktop or mobile operating systems.*
+*15 projects. Installed applications and launchers that provide a native interface to Herdr on desktop or mobile operating systems.*
 
 | Project | What it does |
 |---|---|
@@ -2313,6 +2313,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**muhammedenesb100/herdrm**](https://github.com/muhammedenesb100/herdrm) | Manages every coding agent on your Mac and remote machines from one native terminal. |
 | [**3loc/herden**](https://github.com/3loc/herden) | Provides Persistent coding-agent runtime with a native iOS console, built from herdr and Heeler, with secure pairing over SSH. |
 | [**ralfkuh-lab/sheepdock**](https://github.com/ralfkuh-lab/sheepdock) | Provides a native macOS launcher that opens herdr in its own kitty window, with its own Dock icon. |
+| [**minchenlee/flockbook**](https://github.com/minchenlee/flockbook) | Shows each Herdr agent's Claude Code, Codex, Cursor, or pi conversation in a native macOS reading view, with an inbox of agents waiting for an approval or an answer. Replies, approvals, and question answers go back through the Herdr socket API, and the terminal stays one click away. |
 
 ### Web dashboards and remote viewers
 
